@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mahdi Karimi.
+- 👀 I’m interested in front-end development.
+- 🌱 I’m currently learning Tailwind CSS.
+- 💞️ I’m looking to collaborate on front-end side of the projects.
+- 📫 kmahdi1997@gmail.com
