@@ -6,3 +6,7 @@
 
 <a href="https://github.com/kmahdi1997">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmahdi1997&show_icons=true&count_private=true&include_all_commits=true" /></a>
+
+<a href="https://github.com/kmahdi1997">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmahdi1997" />
+</a>
