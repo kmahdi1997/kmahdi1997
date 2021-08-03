@@ -1,25 +1,31 @@
-- 👋 Hi, I’m Mahdi Karimi.
+<h3>Hi there, I’m Mahdi Karimi 👋</h3>
+
 - 👀 I’m interested in front-end development.
 - 🌱 I’m currently learning Tailwind CSS.
 - 💞️ I’m looking to collaborate on front-end side of the projects.
-- 📫 kmahdi1997@gmail.com
 
+<h3>Languages and Tools:</h3>
+<div>
+  <img height="32" width="32" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="32" width="32" align="center" hspace="10" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />
+  <img height="32" width="32" align="center" hspace="10" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" />
+  <img height="32" width="32" align="center" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" />
+  <img height="32" width="32" align="center" hspace="10" src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" />
+</div>
+
+<br/>
+<hr/>
+<br/>
 
 <a href="https://github.com/kmahdi1997">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmahdi1997&show_icons=true&count_private=true&include_all_commits=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmahdi1997&show_icons=true&count_private=true&include_all_commits=true&theme=merko" /></a>
 
 <a href="https://github.com/kmahdi1997">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmahdi1997" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmahdi1997&theme=merko" />
 </a>
 
-<div>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vuedotjs.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" />
-</div>
+
