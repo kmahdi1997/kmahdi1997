@@ -6,7 +6,7 @@
 
 <h3>Languages and Tools:</h3>
 <div>
-  <img height="32" width="32" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
   <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -21,11 +21,13 @@
 <hr/>
 <br/>
 
+<div>
 <a href="https://github.com/kmahdi1997">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmahdi1997&show_icons=true&count_private=true&include_all_commits=true&theme=merko" /></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kmahdi1997&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" /></a>
 
 <a href="https://github.com/kmahdi1997">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmahdi1997&theme=merko" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmahdi1997&theme=highcontrast" />
 </a>
+</div>
 
 
