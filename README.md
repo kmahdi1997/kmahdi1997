@@ -23,10 +23,10 @@
 
 <div>
 <a href="https://github.com/kmahdi1997">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kmahdi1997&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" /></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kmahdi1997&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
 <a href="https://github.com/kmahdi1997">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmahdi1997&theme=highcontrast" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmahdi1997" />
 </a>
 </div>
 
