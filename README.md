@@ -1,7 +1,7 @@
 <h3>Hi there, I’m Mahdi Karimi 👋</h3>
 
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning Tailwind CSS.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on front-end side of the projects.
 
 <h3>Languages and Tools:</h3>
