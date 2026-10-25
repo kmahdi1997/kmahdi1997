@@ -1,31 +1,25 @@
-<h3>Hi there, I’m Mahdi Karimi 👋</h3>
+# Hi, I’m Mahdi Karimi
 
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on front-end side of the projects.
+**Product Designer with a front-end background**
 
-<h3>Languages and Tools:</h3>
-<div>
-  <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img height="32" width="32" align="center" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img height="32" width="32" align="center" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" />
-  <img height="32" width="32" align="center" hspace="10" src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" />
-</div>
+I design product experiences, reusable design systems, and interactive prototypes. I connect user needs, clear interface decisions, and practical implementation.
 
-<br/>
-<hr/>
-<br/>
+## What I focus on
 
-<div>
-<a href="https://github.com/kmahdi1997">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kmahdi1997&show_icons=true&count_private=true&include_all_commits=true" /></a>
+- **Product & UX design** — information architecture, user flows, and responsive interfaces.
+- **Design systems** — design tokens, reusable components, interaction states, and documentation.
+- **Design & development** — interactive prototypes, clear handoff, and collaboration with developers.
 
-<a href="https://github.com/kmahdi1997">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmahdi1997" />
-</a>
-</div>
+## How I work
 
+I explore the problem and its constraints, compare design options, and prototype interactions before handoff. I use behavioral insights to review usability and refine decisions, with attention to responsive layouts and right-to-left interfaces.
 
+## Tools & workflow
+
+Figma · HTML · CSS · JavaScript · GitHub · Microsoft Clarity
+
+I also use AI-assisted prototyping and MCP integrations to connect design tools with working prototypes.
+
+## Connect
+
+[Portfolio](https://mrmahdikarimi.ir) · [X](https://twitter.com/mrmahdikarimi)
