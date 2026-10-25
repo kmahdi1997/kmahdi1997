@@ -22,4 +22,4 @@ I also use AI-assisted prototyping and MCP integrations to connect design tools 
 
 ## Connect
 
-[Portfolio](https://mrmahdikarimi.ir) · [X](https://twitter.com/mrmahdikarimi)
+[Portfolio](https://mahdikarimi.framer.website/)
